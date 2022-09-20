@@ -1,5 +1,5 @@
 # Regularized-Naive-Bayes
-The proposed 'regularized naive Bayes' combines 'class-dependent attribute weights' and 'class-independent attributes weights' together to derive the regularized posterior function, and they are optimized simultanuouely by using L-BFGS algorithm.
+The proposed `regularized naive Bayes' combines `class-dependent attribute weights' and `class-independent attributes weights' together to derive the regularized posterior function, and they are optimized simultanuouely by using L-BFGS algorithm.
 ![](https://github.com/Shellson/Regularized-Naive-Bayes/blob/main/frame4.png)
 ## Dataset
 The example dataset is iris.csv in which the first four columns are features and the last one is class label. The detailed descriptions of all datasets used in the paper can be found in https://archive.ics.uci.edu/ml/index.php.
