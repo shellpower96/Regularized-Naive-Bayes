@@ -9,13 +9,13 @@ All the features should be first convert to numerical value, and then make a cla
 
 If you use this code, please cite:
 <br>
-@article{wang2020regularized,
-  title={A regularized attribute weighting framework for naive bayes},
-  author={Wang, Shihe and Ren, Jianfeng and Bai, Ruibin},
-  journal={IEEE Access},
-  volume={8},
-  pages={225639--225649},
-  year={2020},
-  publisher={IEEE}
-}
+  @article{wang2020regularized,
+    title={A regularized attribute weighting framework for naive bayes},
+    author={Wang, Shihe and Ren, Jianfeng and Bai, Ruibin},
+    journal={IEEE Access},
+    volume={8},
+    pages={225639--225649},
+    year={2020},
+    publisher={IEEE}
+  }
 <br>
